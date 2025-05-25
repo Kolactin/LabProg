@@ -2,9 +2,9 @@
 
 ## Autor
 
-**Fabio Ricardo Reis Da Silva junior**
+**Fabio Ricardo Reis Da Silva Junior**
 
-Este repositório contém oscódigos dos exercícios propostos na aula da disciplina de **Laboratório de Programação**.
+Este repositório contém os códigos dos exercícios propostos na aula da disciplina de **Laboratório de Programação**.
 
 ## Sobre
 
@@ -16,5 +16,3 @@ O objetivo deste repositório é organizar os conteúdos abordados nas aulas pr�
 Este repositório é de uso pessoal e educacional.
 
 ---
-
-Sinta-se à vontade para explorar e utilizar os conteúdos disponíveis!
